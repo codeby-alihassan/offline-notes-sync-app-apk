@@ -1,0 +1,6 @@
+{
+  "name": "SyncNote",
+  "description": "An offline-first note-taking application with automatic cloud synchronization to Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
